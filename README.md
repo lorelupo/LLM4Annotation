@@ -413,6 +413,8 @@ If you find this repo helpful, we would appreciate it if you could cite our surv
 
 - **Can LLMs Replace Manual Annotation of Software Engineering Artifacts?.** Ahmed, Toufique, Devanbu, Premkumar, Treude, Christoph, and Pradel, Michael. *arXiv preprint arXiv:2408.05534* (2024) [[link]](https://arxiv.org/pdf/2408.05534)
 
+- **Towards Human-Level Text Coding with LLMs: The Case of Fatherhood Roles in Public Policy Documents** Lorenzo Lupo, Oscar Magnusson, Dirk Hovy, Elin Naurin, Lena Wängnerud. *arXiv preprint arXiv:2311.11844* (2024) [[link]](https://arxiv.org/abs/2311.11844)
+
 - **CoAnnotating: Uncertainty-Guided Work Allocation between Human and Large Language Models for Data Annotation.** Li, Minzhi, Shi, Taiwei, Ziems, Caleb, Kan, Min-Yen, Chen, Nancy, Liu, Zhengyuan, and Yang, Diyi. *Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing* (2023) [[link]](https://arxiv.org/pdf/2310.15638)
 
 - **Leveraging Large Language Models and Weak Supervision for Social Media data annotation: an evaluation using COVID-19 self-reported vaccination tweets.** Tekumalla, Ramya, and Banda, Juan M. *International Conference on Human-Computer Interaction* (2023) [[link]](https://arxiv.org/pdf/2309.06503)
